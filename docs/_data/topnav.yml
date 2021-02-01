@@ -1,0 +1,10 @@
+topnav:
+- title: Topnav
+  items:
+    - title: github
+      external_url: https://github.com/ajitcool19/try_out_demo/tree/master/
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
