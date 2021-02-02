@@ -14,7 +14,7 @@ entries:
       url: core.html
     - output: web,pdf
       title: Title
-      url: Untitled.html
+      url: new_notebook.html
     output: web
     title: try_out_demo
   output: web
