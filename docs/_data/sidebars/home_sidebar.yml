@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Just Testing
       url: core.html
     - output: web,pdf
-      title: Title
+      title: Experimentation with Es
       url: new_notebook.html
     output: web
     title: try_out_demo
