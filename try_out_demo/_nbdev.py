@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"HelloSayer": "00_core.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 doc_url = "https://ajitcool19.github.io/try_out_demo/"
 
