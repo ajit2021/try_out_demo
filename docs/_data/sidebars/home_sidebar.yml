@@ -15,6 +15,9 @@ entries:
     - output: web,pdf
       title: Experimentation with Es
       url: new_notebook.html
+    - output: web,pdf
+      title: RT functionality
+      url: uploader.html
     output: web
     title: try_out_demo
   output: web

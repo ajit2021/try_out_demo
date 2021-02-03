@@ -2,6 +2,7 @@
   "try_out_demo": {
     "Overview": "/",
     "Just Testing": "core.html",
-    "Experimentation with Es": "new_notebook.html"
+    "Experimentation with Es": "new_notebook.html",
+    "RT functionality": "uploader.html"
   }
 }
