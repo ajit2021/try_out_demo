@@ -1,4 +1,4 @@
-.ONESHELL:
+-.ONESHELL:
 SHELL := /bin/bash
 SRC = $(wildcard ./*.ipynb)
 
